@@ -1,7 +1,7 @@
 # e-commerce
 
 ## MileStone
-![image](https://github.com/BaileyPark/e-commerce/assets/25733011/d960f7c7-25a8-4dc2-8567-7eed001bb0da)
+![e-commerce](https://github.com/BaileyPark/e-commerce/assets/25733011/a92d5727-7348-4c27-8ea6-daa9f91e0098)
 
 ## ERD
 ![e-commerce](https://github.com/BaileyPark/e-commerce/assets/25733011/97475147-c731-42f4-b3c0-588f971997bf)
